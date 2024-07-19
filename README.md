@@ -1,2 +1,2 @@
-# GangBot
+# BoysBot
 the best Discord bot ;)
