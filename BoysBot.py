@@ -55,9 +55,6 @@ import aiosqlite
 # discord bots key
 BOT_KEY = ""
 
-
-#from nextcord.ext import commands
-
 start = datetime.datetime.now()
 
 #put the path to where you have the log.txt if you want logging
