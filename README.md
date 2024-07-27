@@ -1,4 +1,8 @@
 # BoysBot
+
+![bb](https://github.com/user-attachments/assets/11021309-9f04-4642-b7b6-d1d027a66241)
+
+
 the best Discord bot 😎
 
 ![homelander-stronger](https://github.com/user-attachments/assets/ed1797db-b975-4f96-bc36-aad70beb22ea)
