@@ -3,4 +3,4 @@ the best Discord bot ;)
 
 ![Alt Text](https://tenor.com/view/homelander-stronger-smarter-better-gif-27330950)
 <br>
-<img src="https://tenor.com/view/homelander-stronger-smarter-better-gif-27330950" width="80" height="70" />
+<img src="https://tenor.com/view/homelander-stronger-smarter-better-gif-27330950" width="100" height="100" />
